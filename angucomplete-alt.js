@@ -784,7 +784,7 @@
         remoteApiHandler: '=',
         id: '@',
         type: '@',
-        placeholder: '@',
+        placeholder: '=',
         remoteUrl: '@',
         remoteUrlDataField: '@',
         titleField: '@',
